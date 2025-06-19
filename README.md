@@ -59,7 +59,3 @@ const myList = ["apple", "banana", "apple", "orange", "banana", "grape"];
 // @remove-duplicates
 const myList = ["apple", "banana", "orange", "grape"];
 ```
-
-## License
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
