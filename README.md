@@ -1,6 +1,6 @@
 # eslint-plugin-remove-duplicates
 
-This ESLint plugin removes duplicate strings in arrays that are specially marked with a `// @remove-duplicates` comment.
+This ESLint plugin removes duplicate elements in arrays by comparing their source code text. Arrays must be specially marked with a `// @remove-duplicates` comment.
 
 ## Installation
 
